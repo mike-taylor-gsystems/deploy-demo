@@ -1,1 +1,4 @@
 *.aliases
+/Source/Settings.xml
+*.lvlps
+/Source/Deployments
