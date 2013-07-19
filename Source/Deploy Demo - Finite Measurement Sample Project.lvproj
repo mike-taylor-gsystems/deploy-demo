@@ -244,13 +244,13 @@
 				<Property Name="Deploy-App-PublisherURL" Type="Str">https://wirebirdlabs.com</Property>
 				<Property Name="Deploy-App-TechSupportPhone" Type="Str">512-981-LABS</Property>
 				<Property Name="Deploy-App-TechSupportURL" Type="Str">https://connect.wirebirdlabs.com</Property>
-				<Property Name="Deploy-App-VersionBuild" Type="Str">1019</Property>
+				<Property Name="Deploy-App-VersionBuild" Type="Str">1023</Property>
 				<Property Name="Deploy-App-VersionPatch" Type="Str">0</Property>
 				<Property Name="Deploy-DeploymentServer-Domain" Type="Str">demo.wirebirdlabs.com</Property>
 				<Property Name="Deploy-DeploymentServer-Subfolder" Type="Str">index</Property>
 				<Property Name="Deploy-DownloadPage-URI" Type="Str">http://demo.wirebirdlabs.com/index</Property>
 				<Property Name="Deploy-Installer-CompressApplication" Type="Str">TRUE</Property>
-				<Property Name="Deploy-Installer-PackageCode" Type="Str">{5E212B44-516E-4C6D-A788-193F4FF8FABE}</Property>
+				<Property Name="Deploy-Installer-PackageCode" Type="Str">{D52591F0-F2ED-4F51-82F9-25A6337FF5EB}</Property>
 				<Property Name="Deploy-Installer-ProductCode" Type="Str">{9C3CCD73-9541-4366-B2AC-F4C3FA677671}</Property>
 				<Property Name="Deploy-Installer-UpgradeCode" Type="Str">{9FEE2DB1-FAD8-40AD-B509-407EEC530221}</Property>
 				<Property Name="Deploy-LinkedBuildSpec[0000][Dest]" Type="Str">{app}</Property>
@@ -261,7 +261,7 @@
 				<Property Name="ReleaseChange[1.0.0][44D9927E41777208]" Type="Str">[Major][Roadmap][Consider improving button graphics][]</Property>
 				<Property Name="ReleaseChange[1.0.0][4986B7C86C6A89B0]" Type="Str">[Major][Feature][Initial Release of the Finite Measurement Demo][]</Property>
 				<Property Name="ReleaseChange[1.0.0][F4007BA837FD6513]" Type="Str">[Major][Feature][Integrated Update Manager using Wirebird Labs: Deploy][]</Property>
-				<Property Name="ReleaseMetadata[1.0.0]" Type="Str">[Finite Measurement Deploy Demo v1.0.0.1018][1.0.0.1018][Recommended][18 Jul 2013][3.55MB][http://demo.wirebirdlabs.com/index/FiniteMeasurementDeployDemo-1.0.0.1018.exe]</Property>
+				<Property Name="ReleaseMetadata[1.0.0]" Type="Str">[Finite Measurement Deploy Demo v1.0.0.1022][1.0.0.1022][Recommended][18 Jul 2013][36.7MB][http://demo.wirebirdlabs.com/index/FiniteMeasurementDeployDemo-1.0.0.1022.exe]</Property>
 			</Item>
 			<Item Name="Finite Measurement Deploy Demo EXE" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
@@ -294,7 +294,7 @@
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Wirebird Labs LLC</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">This application is used by this group to achieve this task.</Property>
-				<Property Name="TgtF_fileVersion.build" Type="Int">1018</Property>
+				<Property Name="TgtF_fileVersion.build" Type="Int">1022</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
 				<Property Name="TgtF_fileVersion.minor" Type="Int">0</Property>
 				<Property Name="TgtF_fileVersion.patch" Type="Int">0</Property>
